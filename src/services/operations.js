@@ -1,0 +1,1 @@
+export const baseUrl = "https://postapp-back.onrender.com";
